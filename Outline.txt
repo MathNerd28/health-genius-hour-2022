@@ -10,7 +10,11 @@ Guided questions:
 
 1. What makes social media so popular/addictive?
 
+Social media is designed specifically to keep people engaged with content. When you click or scroll through your feed, you may think you're just seeing the same things as other people around you. As a recent Netflix documentary "The Social Dilemma" reveals, this could not be farther from the truth.
 
+Companies engage massive computer networks that learn what you like, what you don't like, what you're likely to like, and anything else that will keep your attention for longer. They can measure how long you look at an image, how long it took you to read a comment, whether you doubled back for a second glance, and a hundred other things that are fed into an AI computer model that probably knows you better than you know yourself.
+
+The term AI usually scares people, as they often picture futuristic fantasies such as Terminator or the Matrix
 
 2. How does social media impact mental health?
 
