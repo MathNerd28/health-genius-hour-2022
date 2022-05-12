@@ -12,22 +12,27 @@ Guided questions:
 
 Social media is designed specifically to keep people engaged with content. When you click or scroll through your feed, you may think you're just seeing the same things as other people around you. As a recent Netflix documentary "The Social Dilemma" reveals, this could not be farther from the truth.
 
-Companies engage massive computer networks that learn what you like, what you don't like, what you're likely to like, and anything else that will keep your attention for longer. They can measure how long you look at an image, how long it took you to read a comment, whether you doubled back for a second glance, and a hundred other things that are fed into an AI computer model that probably knows you better than you know yourself.
+Companies engage massive computer networks that learn what you like, what you don't like, what you're likely to like, and anything else that will keep your attention for longer. They can measure how long you look at an image, how long it took you to read a comment, whether you doubled back for a second glance, and a hundred other things (Mustafa) that are fed into an AI computer model that probably knows you better than you know yourself. This information is used to hold your attention as long as possible, and also to show you as many advertisements as they can. As former Google design ethicist Tristan Harris states, "If you're not paying for the product, then you ARE the product."
 
-The term AI usually scares people, as they often picture futuristic fantasies such as Terminator or the Matrix
+The term AI usually scares people, as they often picture futuristic fantasies such as Terminator or the Matrix. However, the age of AI is already here, as computer programs such as OpenAI's GPT-3 have learned to have meaningful conversations. The part that SHOULD scare you is how these programs learn much faster than humans possibly ever could, and have already surpassed our ability in certain tasks (e.g. deterministic games). This means that while the computers are already pretty good at ensuring people stay on their platforms for as long as possible, they will only continue to improve, and we are powerless to stop them from doing so.
 
 2. How does social media impact mental health?
 
+One in-depth study found a significant correlation between general unhappiness and social media addiction, although it does not specify which is the cause (Demir). However, the concept of mental health impact is largely based on self-comparison. Humans are social creatures, and we crave to be accepted by our society. As a result, we get a dopamine hit every time we see a like on our post, but it also means that any negative comments are soul-crushing.
 
+These unnatural endorphin levels can cause serious mood swings, or even more serious health problems such as depression or thoughts of suicide. In addition, you're constantly comparing yourself to a world of perfect lives and filters, which you can't possibly match, and this only adds to the negative feelings. Social media has many horrible impacts on the brain, especially for developing teens.
 
 3. How is social media used for manipulation?
 
-
+Social media companies can harness the power of AI to make you believe what they want you to believe, but they aren't the only ones in power. Often, social media is used as a political battlefield during major election campaigns in the United States, as well as other regions of the world (Kelly). As a prime example, previous US president Donald Trump was banned from multiple social media platforms (including Twitter, FaceBook and YouTube) after he was accused of inciting violence against the Capital building in Washington DC in 2021. Words written online have real-world ramifications, which can sometimes be abused for personal gain or harm.
 
 4. What are the privacy concerns?
 
-Sources: Anderson, Mustafa (Kashmir Observer)
+The usage of social media platforms may seem like a free service, but that couldn't be farther from the truth. Rather than paying with cash, people all across the globe give up their personal information to tech giants such as Meta, Twitter, Snap Inc., and ByteDance, to name a few.
 
-The usage of social media platforms may seem like a free service, but that couldn't be farther from the truth. Rather than paying with cash, people all across the globe give up their personal information to tech giants such as Meta, Twitter, Snap Inc., and ByteDance, to name a few. Primarily, Meta, previously Facebook, seems to be the driving force behind the changes in the current era of digital privacy. Few can remember a time when Facebook originally offered its users "simple and powerful controls over their personal information", as they've since changed their practices to drive their business and make money from advertising.
+Primarily, Meta (previously Facebook) seems to be the driving force behind the changes in the current era of digital privacy. Few can remember a time when Facebook originally offered its users "simple and powerful controls over their personal information", as they've since changed their practices to drive their business and make money from advertising (Anderson).
 
 5. How does social media affect communication?
+
+Speaking with a person online isn't the same as talking in person. In a book written by Penn State researcher Bu Zhong titled \"Social Media Communication: Trends and Theories\", he elaborates on how
+skills we use when meeting face-to-face aren't possible through a text interface, including most forms of body language and tone. In addition,  he also states \"People may ask more direct questions and disclose more information about themselves when communicating with a stranger through a computer than when interacting face to face\" (Bohn). Styles and methods of getting information across drastically differ between a screen and a face, which forces us to compensate by clarifying more often than we normally would, and making other subtle changes to our presentation.
